@@ -5,6 +5,6 @@ function trans(obj) {
 
 $(document).ready(function(){
   $("#sposta").click(function(){
-     $(".intern").animate({left: '250px'});
+     $("#sposta").animate({left: '30vw'});
    })
 });
