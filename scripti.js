@@ -5,6 +5,12 @@ function trans(obj) {
 
 $(document).ready(function(){
   $("#sposta").click(function(){
-     $("#sposta").animate({left: '30vw'});
+     $("#sposta").animate({
+       left: '42vw',
+       top: '40vh',
+       fontSize: '10vh',
+       width: '16vw',
+
+     }, 300, "linear");
    })
 });

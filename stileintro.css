@@ -23,7 +23,7 @@ body{
   left: 15vw;
   font-size: 20vh;
   opacity: 0.75;
-  transition: 2s;
+  /* transition: 2s; */
   color: auto;
 }
 
@@ -33,7 +33,7 @@ a:active{
 }
 
 .intern{
-
+  text-align: center;
 }
 
 a{
